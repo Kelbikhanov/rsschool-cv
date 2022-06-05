@@ -1,5 +1,5 @@
 # Ruslan Celviano
-![](https://vk.com/albums-72495085?z=photo-72495085_457307490%2Fphotos-72495085)
+![](/img/myAva.jpg)
 
 ## Junior FrontEnd Developer
 
@@ -16,7 +16,14 @@
 
 **Telegram:** @Celviano
 
+**Discord:** ruslan2202
+
 * * *
+
+## About Me:
+
+Hi, my name is Ruslan, i`m 27 old. I was born in Caucasus, now i live in Saint Petersburg. I work in IT. My goal is to learn everything new and exciting. I love computers and coding.
+
 
 ### My Skils and Proficiency:
 
@@ -27,16 +34,11 @@
 
 ### Code example:
 
-*Выйдите из цикла, изменив только две отмеченные строки. Результат в консоли сейчас останавливается на 9 9. Должен на 5 4.*
+*This code does not execute properly. Try to figure out why.*
 
 ```javascript
-cycle: for (let i = 0; i < 10; i++) {
- for (let j = 0; j < 10; j++) {
-   if (i === 5 && j === 5) {
-     break cycle;
-   }
-   console.log(i, j);
- }
+function multiply(a, b){
+  return a * b
 }
 ```
 
@@ -49,3 +51,10 @@ cycle: for (let i = 0; i < 10; i++) {
 
 - **University:** Institut Srednego Professional'nogo Obrazovaniya
 - **Courses:** HTML and CSS Tutorials on the w3schools, LearnJs.
+
+
+### My works: 
+
+- **Pizza Project** https://react-test-pizza.herokuapp.com/
+- **ToDo List** https://kelbikhanov.github.io/ToDoList/
+- **Weather** https://kelbikhanov.github.io/Weather/
