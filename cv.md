@@ -1,4 +1,5 @@
 # Ruslan Celviano
+![](https://vk.com/albums-72495085?z=photo-72495085_457307490%2Fphotos-72495085)
 
 ## Junior FrontEnd Developer
 
@@ -43,3 +44,8 @@ cycle: for (let i = 0; i < 10; i++) {
 
 - Russian - native
 - English - basic
+
+### Education:
+
+- **University:** Institut Srednego Professional'nogo Obrazovaniya
+- **Courses:** HTML and CSS Tutorials on the w3schools, LearnJs.
